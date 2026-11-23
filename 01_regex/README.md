@@ -9,11 +9,22 @@ cd /
 
 ```
 
+- tail -> outputs the end of a file 
+
 Use `grep -E` for regex search
 
 ```bash
 # always use single quote
 grep -E 'root' passwd 
+
+# character class [] and quantifier +
+head passwd | grep -E '^[a-z]+'  
+
+# caret ^ outside of character class [] means start with
+# caret ^ inside of character class [] means negation
+head passwd | grep -E '[^a-z]+'  
+
+
 ```
 
 ### /etc
