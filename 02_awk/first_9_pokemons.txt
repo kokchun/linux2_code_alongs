@@ -1,0 +1,9 @@
+Name                        Type1  HP
+Bulbasaur                   Grass  45
+Ivysaur                     Grass  60
+Venusaur                    Grass  80
+Venusaur Mega Venusaur      Grass  80
+Charmander                  Fire   39
+Charmeleon                  Fire   58
+Charizard                   Fire   78
+Charizard Mega Charizard X  Fire   78
