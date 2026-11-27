@@ -1,0 +1,77 @@
+====== FIRE pokemons report ======
+4 Charmander 52 Fire
+5 Charmeleon 64 Fire
+6 Charizard 84 Fire
+6 Charizard Mega Charizard X 130 Fire
+6 Charizard Mega Charizard Y 104 Fire
+37 Vulpix 41 Fire
+38 Ninetales 76 Fire
+58 Growlithe 70 Fire
+58 Growlithe Hisuian Growlithe 75 Fire
+59 Arcanine 110 Fire
+59 Arcanine Hisuian Arcanine 115 Fire
+77 Ponyta 85 Fire
+78 Rapidash 100 Fire
+105 Marowak Alolan Marowak 80 Fire
+126 Magmar 95 Fire
+136 Flareon 130 Fire
+146 Moltres 100 Fire
+155 Cyndaquil 52 Fire
+156 Quilava 64 Fire
+157 Typhlosion 84 Fire
+157 Typhlosion Hisuian Typhlosion 84 Fire
+218 Slugma 40 Fire
+219 Magcargo 50 Fire
+240 Magby 75 Fire
+244 Entei 115 Fire
+250 Ho-oh 130 Fire
+255 Torchic 60 Fire
+256 Combusken 85 Fire
+257 Blaziken 120 Fire
+257 Blaziken Mega Blaziken 160 Fire
+322 Numel 60 Fire
+323 Camerupt 100 Fire
+323 Camerupt Mega Camerupt 120 Fire
+324 Torkoal 85 Fire
+351 Castform Sunny Form 70 Fire
+390 Chimchar 58 Fire
+391 Monferno 78 Fire
+392 Infernape 104 Fire
+467 Magmortar 95 Fire
+485 Heatran 90 Fire
+498 Tepig 63 Fire
+499 Pignite 93 Fire
+500 Emboar 123 Fire
+513 Pansear 53 Fire
+514 Simisear 98 Fire
+554 Darumaka 90 Fire
+555 Darmanitan Standard Mode 140 Fire
+555 Darmanitan Zen Mode 30 Fire
+631 Heatmor 97 Fire
+653 Fennekin 45 Fire
+654 Braixen 59 Fire
+655 Delphox 69 Fire
+662 Fletchinder 73 Fire
+663 Talonflame 81 Fire
+667 Litleo 50 Fire
+668 Pyroar 68 Fire
+721 Volcanion 110 Fire
+725 Litten 65 Fire
+726 Torracat 85 Fire
+727 Incineroar 115 Fire
+741 Oricorio Baile Style 70 Fire
+776 Turtonator 78 Fire
+806 Blacephalon 127 Fire
+813 Scorbunny 71 Fire
+814 Raboot 86 Fire
+815 Cinderace 116 Fire
+850 Sizzlipede 65 Fire
+851 Centiskorch 115 Fire
+909 Fuecoco 45 Fire
+910 Crocalor 55 Fire
+911 Skeledirge 75 Fire
+935 Charcadet 50 Fire
+936 Armarouge 60 Fire
+937 Ceruledge 125 Fire
+994 Iron Moth 70 Fire
+Count: 75, avg attack: 84.1

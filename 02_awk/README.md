@@ -16,3 +16,12 @@ awk '/regex_pattern/'
 # matches field n
 awk '$n~/regex_pattern/'
 ```
+
+
+## Structure for awk scripts
+
+```text
+[BEGIN block] - used for prep, field separator, write header
+[NORMAL block] - runs for each line
+[END block] - type out reports or messages when script is done
+```
